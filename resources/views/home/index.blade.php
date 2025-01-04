@@ -74,15 +74,15 @@
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
             {{-- Image 1 --}}
             <div class="card shadow-lg">
-                <img src="\image\assets\Group 4.png" alt="group 3 image 1" class="w-full h-auto object-cover">
+                <img src="\image\assets\Group 4.svg" alt="group 3 image 1" class="w-full h-auto object-cover">
             </div>
             {{-- Image 2 --}}
             <div>
-                <img src="\image\assets\Group 5.png" alt="group 3 image 2" class="w-full h-auto object-cover">
+                <img src="\image\assets\Group 5.svg" alt="group 3 image 2" class="w-full h-auto object-cover">
             </div>
             {{-- Image 3 --}}
             <div>
-                <img src="\image\assets\Group 6.png" alt="group 3 image 3" class="w-full h-auto object-cover">
+                <img src="\image\assets\Group 6.svg" alt="group 3 image 3" class="w-full h-auto object-cover">
             </div>
         </div>
     </div>
