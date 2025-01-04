@@ -16,7 +16,7 @@
         <!-- Logo Section -->
         <div class="flex items-center space-x-4">
             <img src="/image/logos/SMKN_11 1.png" alt="Logo SMK" class="h-16 md:h-20" />
-            <img src="/image/logos/LogolightblueBlue 4000x4000 2.png" alt="Logo" class="h-16 md:h-20" />
+            <img src="/image/logos/LogolightblueBlue 4000x4000.png" alt="Logo" class="h-16 md:h-20" />
         </div>
 
         <!-- Navigation Menu for Desktop -->
