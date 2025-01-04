@@ -18,7 +18,6 @@
             <img src="/image/logos/SMKN_11 1.png" alt="Logo SMK" class="h-16 md:h-20" />
             <img src="/image/logos/Untitled111_20241227101255 2.png" alt="Logo Diskominfo" class="h-16 md:h-20" />
         </div>
-        <div></div>
 
         <!-- Navigation Menu for Desktop -->
         <nav class="hidden md:flex items-center space-x-8 bg-gray-100 rounded-lg shadow-xl pr-4 md:pr-6">
