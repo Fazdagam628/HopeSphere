@@ -94,7 +94,3 @@
 </body>
 
 </html>
-
-{{-- <script>
-    $('#spanYear').html(new Date().getFullYear());
-</script> --}}
