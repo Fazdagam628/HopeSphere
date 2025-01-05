@@ -36,7 +36,7 @@
         </nav>
 
         <!-- Hamburger Menu for Mobile -->
-        <div class="dropdown dropdown-end md:hidden relative z-20">
+        <div class="dropdown dropdown-end md:hidden">
             <button class="btn btn-ghost btn-circle">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                     class="w-6 h-6 stroke-current">
