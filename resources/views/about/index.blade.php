@@ -19,7 +19,7 @@
         </div>
 
         <!-- Navigation Menu -->
-        <nav class="hidden md:flex items-center space-x-8 bg-gray-100 rounded-lg shadow-xl pr-4 md:pr-6">
+        <nav class="hidden md:flex items-center space-x-8 bg-gray-100 rounded-lg shadow-xl pr-4 md:pr-6 pl-4 md:pl-6">
             <a href="{{ route('home.index') }}"
                 class="text-black text-lg md:text-xl font-medium hover:text-red-500 hover:font-semibold active:text-red-500 active:font-semibold transition-all">
                 HOME
@@ -48,6 +48,14 @@
             </ul>
         </div>
     </header>
+    <section>
+        <h3 class="text-black text-lg md:text-xl text-center font-semibold mt-10">Tentang Kami</h3>
+        <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold mt-10">Latar Belakang</h2>
+        <div class="my-20 mx-10 px-20 py-40 bg-gray-200"></div>
+    </section>
+    <section>
+        <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold m-10">Kegiatan</h2>
+    </section>
     <footer class="footer footer-center bg-white text-black p-4 drop-shadow-xl">
         <aside>
             <p>Copyright &copy; 2025 - All right reserved</p>
