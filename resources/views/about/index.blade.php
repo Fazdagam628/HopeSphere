@@ -52,22 +52,42 @@
         <h3 class="text-black text-lg md:text-xl text-center font-semibold mt-10">Tentang Kami</h3>
         <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold mt-10">Latar Belakang</h2>
         <div class="my-20 mx-10 px-5 py-5 bg-gray-200 rounded-lg">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia volutpat ante at finibus.
-                Integer eu urna nibh. Fusce a eros facilisis, eleifend sem et, feugiat nisl. Aliquam rutrum pulvinar
-                tellus vel consectetur. Sed a semper nisl. Nunc in ex iaculis nisi convallis ultricies. Donec interdum,
+            <p class="text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia
+                volutpat ante at finibus.
+                <br>
+                Integer eu urna nibh.
+                <br>
+                Fusce a eros facilisis, eleifend sem et, feugiat nisl. Aliquam rutrum pulvinar
+                tellus vel consectetur.
+                <br>
+                Sed a semper nisl.
+                <br>
+                Nunc in ex iaculis nisi convallis ultricies.
+                <br>
+                Donec interdum,
                 orci non facilisis rhoncus, lectus velit sagittis nulla, imperdiet tempor ipsum neque vitae quam.
                 Praesent lobortis in tortor et accumsan.
-                Donec neque ex, pellentesque sit amet odio at, tincidunt suscipit urna. Ut id varius mauris, at blandit
-                felis. Integer egestas sem id massa blandit commodo. Sed sit amet rhoncus nibh. Curabitur eu dui nunc.
-                Duis metus ante, tincidunt eget risus ac, dapibus blandit erat. Curabitur rutrum vitae velit in
-                ultrices. Nulla auctor risus eget augue euismod facilisis.</p>
+                <br>
+                Donec neque ex, pellentesque sit amet odio at, tincidunt suscipit urna.
+                <br>
+                Ut id varius mauris, at blandit
+                felis.
+                <br>
+                Integer egestas sem id massa blandit commodo.
+                <br>
+                Sed sit amet rhoncus nibh. Curabitur eu dui nunc.
+                Duis metus ante, tincidunt eget risus ac, dapibus blandit erat.
+                <br>
+                Curabitur rutrum vitae velit in
+                ultrices. Nulla auctor risus eget augue euismod facilisis.
+            </p>
         </div>
     </section>
     <section>
         <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold m-10">Kegiatan</h2>
         <div class="flex justify-center my-20">
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-24">
-                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                <div class="relative group w-86 h-auto bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
                     <!-- Image 1-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
@@ -84,13 +104,17 @@
                     <!-- Detailed Description -->
                     <div
                         class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
-                        <p class="font-medium text-justify text-white p-5">
-                            This is a detailed description that appears when you hover over the image and it covers the
-                            entire image.
+                        <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
+                            Penyerahan jabatan PMR Wira Karuna SMKN 11 dari angkatan 33 kepada angkatan 34 menandai
+                            momen penting dalam perjalanan organisasi. Acara ini menjadi simbol purna tugas bagi
+                            angkatan 33 setelah menjalankan tugas dengan dedikasi dan tanggung jawab. Pada saat yang
+                            sama, angkatan 34 resmi memulai peran mereka untuk melanjutkan pengabdian di bidang
+                            kepalangmerahan. Penyerahan ini mencerminkan semangat angkatan 34 dalam
+                            menjaga nama baik serta visi organisasi.
                         </p>
                     </div>
                 </div>
-                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                <div class="relative group w-86 h-auto bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
                     <!-- Image 2-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
@@ -106,13 +130,17 @@
                     <!-- Detailed Description -->
                     <div
                         class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
-                        <p class="font-medium text-justify text-white p-5">
-                            This is a detailed description that appears when you hover over the image and it covers the
-                            entire image.
+                        <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
+                            Pelatihan di Waduk Jatibarang menjadi ajang edukasi yang mencakup materi tentang bencana
+                            alam dan penanganan patah tulang. Kegiatan ini diikuti oleh perwakilan dari berbagai
+                            sekolah, menciptakan suasana kolaboratif dalam belajar.
+                            Para peserta tidak hanya mendapatkan teori, tetapi juga praktik langsung untuk meningkatkan
+                            kemampuan tanggap darurat mereka. Pelatihan ini bertujuan memperkuat kesadaran dan
+                            keterampilan generasi muda dalam menghadapi situasi darurat secara sigap dan profesional.
                         </p>
                     </div>
                 </div>
-                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                <div class="relative group w-86 h-auto bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
                     <!-- Image 3-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
@@ -128,13 +156,19 @@
                     <!-- Detailed Description -->
                     <div
                         class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
-                        <p class="font-medium text-justify text-white p-5">
-                            This is a detailed description that appears when you hover over the image and it covers the
-                            entire image.
+                        <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
+                            Poltekkes Semarang mengadakan kunjungan ke SMKN 11 Semarang untuk memberikan edukasi tentang
+                            stunting.
+                            apKegiatan ini ditujukan kepada anggota PMR sebagai upaya meningkatkan pemahaman mereka
+                            terkait masalah gizi dan kesehatan.
+                            Dalam sesi ini, peserta mendapatkan pengetahuan mendalam mengenai penyebab, dampak, dan
+                            pencegahan stunting.
+                            Edukasi ini diharapkan dapat mendorong peran aktif generasi muda dalam meningkatkan
+                            kesadaran kesehatan di lingkungan sekitar.
                         </p>
                     </div>
                 </div>
-                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                <div class="relative group w-86 h-auto bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
                     <!-- Image 4-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
@@ -150,13 +184,19 @@
                     <!-- Detailed Description -->
                     <div
                         class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
-                        <p class="font-medium text-justify text-white p-5">
-                            This is a detailed description that appears when you hover over the image and it covers the
-                            entire image.
+                        <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
+                            Latihan kolaborasi antara ekstrakurikuler PMR Wira Karuna dan Pecinta Alam SMKN 11 Semarang
+                            menjadi ajang saling berbagi ilmu dan pengalaman.
+                            Dalam kegiatan ini, masing-masing ekstrakurikuler memberikan materi yang mereka kuasai untuk
+                            dipelajari bersama.
+                            Pertukaran materi ini menciptakan suasana pembelajaran yang interaktif sekaligus mempererat
+                            hubungan antaranggota.
+                            Kolaborasi ini diharapkan dapat memperluas wawasan dan meningkatkan kemampuan peserta di
+                            bidang masing-masing.
                         </p>
                     </div>
                 </div>
-                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                <div class="relative group w-86 h-auto bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
                     <!-- Image 5-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
@@ -172,13 +212,18 @@
                     <!-- Detailed Description -->
                     <div
                         class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
-                        <p class="font-medium text-justify text-white p-5">
-                            This is a detailed description that appears when you hover over the image and it covers the
-                            entire image.
+                        <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
+                            Pemberian materi kepada anggota baru dilakukan untuk mempersiapkan mereka dalam menjalankan
+                            tugas di masa depan.
+                            Materi yang diberikan mencakup Pertolongan Pertama (PP), penanganan bencana alam, patah
+                            tulang, pengenalan obat-obatan, dan topik penting lainnya.
+                            Kegiatan ini bertujuan membekali anggota baru dengan pengetahuan dasar yang esensial dalam
+                            situasi darurat. Dengan pelatihan ini, diharapkan mereka mampu menjalankan tugas dengan
+                            sigap dan penuh tanggung jawab.
                         </p>
                     </div>
                 </div>
-                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                <div class="relative group w-86 h-auto bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
                     <!-- Image 6-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
@@ -188,15 +233,21 @@
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Header Description</p>
                         <!-- Teks di bawah -->
-                        <p class="text-white font-medium text-sm">Aktif Mengikuti Forum Diskusi</p>
+                        <p class="text-white font-medium text-sm">Aktif Mengikuti acara dari PMI</p>
                     </div>
 
                     <!-- Detailed Description -->
                     <div
                         class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
-                        <p class="font-medium text-justify text-white p-5">
-                            This is a detailed description that appears when you hover over the image and it covers the
-                            entire image.
+                        <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
+                            Anggota PMR Wira Karuna SMKN 11 Semarang secara aktif berpartisipasi dalam rapat dan acara
+                            yang diselenggarakan oleh PMI.
+                            Kehadiran mereka mencerminkan komitmen untuk terus belajar dan mendalami peran mereka dalam
+                            bidang kepalangmerahan.
+                            Melalui kegiatan ini, anggota PMR mendapatkan wawasan baru serta pengalaman berharga untuk
+                            mendukung pengabdian mereka di masyarakat.
+                            Partisipasi aktif ini juga menjadi bukti sinergi yang baik antara organisasi
+                            sekolah dan PMI.
                         </p>
                     </div>
                 </div>
