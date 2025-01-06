@@ -48,6 +48,65 @@
             </ul>
         </div>
     </header>
+    <h3 class="text-black text-xl  md:text-2xl text-center font-semibold mt-10">Kontak Kami</h3>
+    {{-- Container --}}
+    <div class="flex flex-col md:flex-row items-center justify-center gap-6 px-4 md:px-16 m-10">
+        {{-- Alamat --}}
+        <div class="card bg-gray-200 shadow-lg rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
+            <div class="text-4xl mb-4">
+                <img src="/image/assets/Peta.svg" alt="Map">
+                <i class="fas fa-map-marker-alt"></i>
+            </div>
+            <h3 class="font-semibold text-xl mb-2">Alamat</h3>
+            <p class="text-center text-gray-600">
+                WCCC+WP8, Jl. Grafika Raya, Gedawang, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50266
+            </p>
+        </div>
+        {{-- Telepon  --}}
+        <div class="card bg-gray-200 shadow-lg rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
+            <div class="text-4xl mb-4">
+                <img src="/image/assets/HP.svg" alt="Smartphone">
+                <i class="fas fa-phone"></i>
+            </div>
+            <h3 class="font-semibold text-xl mb-2">Telepon</h3>
+            <p class="text-center text-gray-600">
+                +62 85953857394
+            </p>
+            <br>
+        </div>
+        {{-- Email  --}}
+        <div class="card bg-gray-200 shadow-lg rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
+            <div class="text-4xl mb-4">
+                <img src="/image/assets/Email.svg" alt="Email">
+                <i class="fas fa-envelope"></i>
+            </div>
+            <h3 class="font-semibold text-xl mb-2">Email</h3>
+            <p class="text-center text-gray-600">
+                KimUDIN@gmail.com
+            </p>
+            <br>
+        </div>
+    </div>
+    <h3 class="text-black text-xl  md:text-2xl text-center font-semibold mt-10">Lokasi</h3>
+    <!-- Map Container -->
+    <div class="flex justify-center items-center my-10 mx-4">
+        <div class="rounded-lg shadow-2xl overflow-hidden max-w-5xl w-full bg-white border-2 border-gray-200">
+            <!-- Map Heading -->
+            <div class="bg-gradient-to-r from-blue-500 to-blue-600 text-white text-center py-4">
+                <h4 class="text-lg md:text-xl font-bold">SMK Negeri 11 Semarang</h4>
+                <p class="text-sm md:text-base">Jl. Grafika Raya, Gedawang, Banyumanik, Kota Semarang</p>
+            </div>
+            <!-- Embedded Map -->
+            <iframe class="w-full h-96 md:h-[500px]"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.4156527347686!2d110.41924147454317!3d-7.077715169374335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e70893590f8415b%3A0xe576f55c68c1c5a0!2sSMK%20Negeri%2011%20Semarang!5e0!3m2!1sid!2sid!4v1736178948136!5m2!1sid!2sid"
+                style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+            <!-- Footer Info -->
+            <div class="bg-gray-100 py-4 text-center text-sm md:text-base font-medium text-gray-600">
+                Klik pada peta untuk melihat detail lokasi lebih lengkap di Google Maps.
+            </div>
+        </div>
+    </div>
     <footer class="footer footer-center bg-white text-black p-4 drop-shadow-xl">
         <aside>
             <p>Copyright &copy; 2025 - All right reserved</p>

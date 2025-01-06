@@ -49,9 +49,9 @@
         </div>
     </header>
     <section>
-        <h3 class="text-black text-lg md:text-xl text-center font-semibold mt-10">Tentang Kami</h3>
-        <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold mt-10">Latar Belakang</h2>
-        <div class="my-20 mx-10 px-5 py-5 bg-gray-200 rounded-lg">
+        <h3 class="text-black text-xl  md:text-2xl text-center font-semibold mt-10">Tentang Kami</h3>
+        <h2 class="text-red-600 text-3xl md:text-5xl text-center font-bold mt-10">Latar Belakang</h2>
+        <div class="my-20 mx-10 px-5 py-5 bg-gray-200 rounded-lg shadow-xl">
             <p class="text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia
                 volutpat ante at finibus.
                 <br>
@@ -84,7 +84,7 @@
         </div>
     </section>
     <section>
-        <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold m-10">Kegiatan</h2>
+        <h2 class="text-red-600 text-3xl md:text-5xl text-center font-bold m-10">Kegiatan</h2>
         <div class="flex justify-center my-20">
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-24">
                 <div class="relative group w-86 h-auto bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
