@@ -51,14 +51,24 @@
     <section>
         <h3 class="text-black text-lg md:text-xl text-center font-semibold mt-10">Tentang Kami</h3>
         <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold mt-10">Latar Belakang</h2>
-        <div class="my-20 mx-10 px-20 py-40 bg-gray-200"></div>
+        <div class="my-20 mx-10 px-5 py-5 bg-gray-200 rounded-lg">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia volutpat ante at finibus.
+                Integer eu urna nibh. Fusce a eros facilisis, eleifend sem et, feugiat nisl. Aliquam rutrum pulvinar
+                tellus vel consectetur. Sed a semper nisl. Nunc in ex iaculis nisi convallis ultricies. Donec interdum,
+                orci non facilisis rhoncus, lectus velit sagittis nulla, imperdiet tempor ipsum neque vitae quam.
+                Praesent lobortis in tortor et accumsan.
+                Donec neque ex, pellentesque sit amet odio at, tincidunt suscipit urna. Ut id varius mauris, at blandit
+                felis. Integer egestas sem id massa blandit commodo. Sed sit amet rhoncus nibh. Curabitur eu dui nunc.
+                Duis metus ante, tincidunt eget risus ac, dapibus blandit erat. Curabitur rutrum vitae velit in
+                ultrices. Nulla auctor risus eget augue euismod facilisis.</p>
+        </div>
     </section>
     <section>
         <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold m-10">Kegiatan</h2>
         <div class="flex justify-center my-20">
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-24">
                 <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
-                    <!-- Image -->
+                    <!-- Image 1-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
                     <!-- Description Overlay -->
@@ -67,7 +77,8 @@
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Header Description</p>
                         <!-- Teks di bawah -->
-                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                        <p class="text-white font-medium text-sm">Serah Terima Jabatan PMR Wira karuna SMKN 11 Angkatan
+                            34</p>
                     </div>
 
                     <!-- Detailed Description -->
@@ -80,7 +91,7 @@
                     </div>
                 </div>
                 <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
-                    <!-- Image -->
+                    <!-- Image 2-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
                     <!-- Description Overlay -->
@@ -89,7 +100,7 @@
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Header Description</p>
                         <!-- Teks di bawah -->
-                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                        <p class="text-white font-medium text-sm">Pelatihan PMI di Waduk Jatibarang</p>
                     </div>
 
                     <!-- Detailed Description -->
@@ -102,7 +113,7 @@
                     </div>
                 </div>
                 <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
-                    <!-- Image -->
+                    <!-- Image 3-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
                     <!-- Description Overlay -->
@@ -111,7 +122,7 @@
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Header Description</p>
                         <!-- Teks di bawah -->
-                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                        <p class="text-white font-medium text-sm">Edukasi Stunting Bersama Poltekes Semarang</p>
                     </div>
 
                     <!-- Detailed Description -->
@@ -124,7 +135,7 @@
                     </div>
                 </div>
                 <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
-                    <!-- Image -->
+                    <!-- Image 4-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
                     <!-- Description Overlay -->
@@ -133,7 +144,7 @@
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Header Description</p>
                         <!-- Teks di bawah -->
-                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                        <p class="text-white font-medium text-sm">Pelatihan Gabungan Dengan Pecinta Alam</p>
                     </div>
 
                     <!-- Detailed Description -->
@@ -146,7 +157,7 @@
                     </div>
                 </div>
                 <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
-                    <!-- Image -->
+                    <!-- Image 5-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
                     <!-- Description Overlay -->
@@ -155,7 +166,7 @@
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Header Description</p>
                         <!-- Teks di bawah -->
-                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                        <p class="text-white font-medium text-sm">Pelatihan Angkatan Baru</p>
                     </div>
 
                     <!-- Detailed Description -->
@@ -168,7 +179,7 @@
                     </div>
                 </div>
                 <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
-                    <!-- Image -->
+                    <!-- Image 6-->
                     <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
 
                     <!-- Description Overlay -->
@@ -177,7 +188,7 @@
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Header Description</p>
                         <!-- Teks di bawah -->
-                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                        <p class="text-white font-medium text-sm">Aktif Mengikuti Forum Diskusi</p>
                     </div>
 
                     <!-- Detailed Description -->
