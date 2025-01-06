@@ -52,7 +52,7 @@
     {{-- Container --}}
     <div class="flex flex-col md:flex-row items-center justify-center gap-6 px-4 md:px-16 m-10">
         {{-- Alamat --}}
-        <div class="card bg-gray-200 shadow-lg rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
+        <div class="card bg-gray-200 shadow-xl rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
             <div class="text-4xl mb-4">
                 <img src="/image/assets/Peta.svg" alt="Map">
                 <i class="fas fa-map-marker-alt"></i>
@@ -63,7 +63,7 @@
             </p>
         </div>
         {{-- Telepon  --}}
-        <div class="card bg-gray-200 shadow-lg rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
+        <div class="card bg-gray-200 shadow-xl rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
             <div class="text-4xl mb-4">
                 <img src="/image/assets/HP.svg" alt="Smartphone">
                 <i class="fas fa-phone"></i>
@@ -75,7 +75,7 @@
             <br>
         </div>
         {{-- Email  --}}
-        <div class="card bg-gray-200 shadow-lg rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
+        <div class="card bg-gray-200 shadow-xl rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
             <div class="text-4xl mb-4">
                 <img src="/image/assets/Email.svg" alt="Email">
                 <i class="fas fa-envelope"></i>
