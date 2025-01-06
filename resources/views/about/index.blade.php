@@ -55,6 +55,143 @@
     </section>
     <section>
         <h2 class="text-red-600 text-lg md:text-7xl text-center font-bold m-10">Kegiatan</h2>
+        <div class="flex justify-center my-20">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-24">
+                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                    <!-- Image -->
+                    <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
+
+                    <!-- Description Overlay -->
+                    <div
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        <!-- Teks di atas -->
+                        <p class="text-white font-semibold text-sm">Header Description</p>
+                        <!-- Teks di bawah -->
+                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                    </div>
+
+                    <!-- Detailed Description -->
+                    <div
+                        class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                        <p class="font-medium text-justify text-white p-5">
+                            This is a detailed description that appears when you hover over the image and it covers the
+                            entire image.
+                        </p>
+                    </div>
+                </div>
+                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                    <!-- Image -->
+                    <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
+
+                    <!-- Description Overlay -->
+                    <div
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        <!-- Teks di atas -->
+                        <p class="text-white font-semibold text-sm">Header Description</p>
+                        <!-- Teks di bawah -->
+                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                    </div>
+
+                    <!-- Detailed Description -->
+                    <div
+                        class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                        <p class="font-medium text-justify text-white p-5">
+                            This is a detailed description that appears when you hover over the image and it covers the
+                            entire image.
+                        </p>
+                    </div>
+                </div>
+                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                    <!-- Image -->
+                    <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
+
+                    <!-- Description Overlay -->
+                    <div
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        <!-- Teks di atas -->
+                        <p class="text-white font-semibold text-sm">Header Description</p>
+                        <!-- Teks di bawah -->
+                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                    </div>
+
+                    <!-- Detailed Description -->
+                    <div
+                        class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                        <p class="font-medium text-justify text-white p-5">
+                            This is a detailed description that appears when you hover over the image and it covers the
+                            entire image.
+                        </p>
+                    </div>
+                </div>
+                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                    <!-- Image -->
+                    <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
+
+                    <!-- Description Overlay -->
+                    <div
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        <!-- Teks di atas -->
+                        <p class="text-white font-semibold text-sm">Header Description</p>
+                        <!-- Teks di bawah -->
+                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                    </div>
+
+                    <!-- Detailed Description -->
+                    <div
+                        class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                        <p class="font-medium text-justify text-white p-5">
+                            This is a detailed description that appears when you hover over the image and it covers the
+                            entire image.
+                        </p>
+                    </div>
+                </div>
+                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                    <!-- Image -->
+                    <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
+
+                    <!-- Description Overlay -->
+                    <div
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        <!-- Teks di atas -->
+                        <p class="text-white font-semibold text-sm">Header Description</p>
+                        <!-- Teks di bawah -->
+                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                    </div>
+
+                    <!-- Detailed Description -->
+                    <div
+                        class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                        <p class="font-medium text-justify text-white p-5">
+                            This is a detailed description that appears when you hover over the image and it covers the
+                            entire image.
+                        </p>
+                    </div>
+                </div>
+                <div class="relative group w-106 h-76 bg-gray-200 rounded-lg overflow-hidden shadow-lg cursor-pointer">
+                    <!-- Image -->
+                    <img src="/image/assets/Rectangle 22.svg" alt="Image" class="w-full h-full object-cover">
+
+                    <!-- Description Overlay -->
+                    <div
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        <!-- Teks di atas -->
+                        <p class="text-white font-semibold text-sm">Header Description</p>
+                        <!-- Teks di bawah -->
+                        <p class="text-white font-medium text-sm">Short Description Footer</p>
+                    </div>
+
+                    <!-- Detailed Description -->
+                    <div
+                        class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                        <p class="font-medium text-justify text-white p-5">
+                            This is a detailed description that appears when you hover over the image and it covers the
+                            entire image.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </section>
     <footer class="footer footer-center bg-white text-black p-4 drop-shadow-xl">
         <aside>

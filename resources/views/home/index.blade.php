@@ -77,11 +77,11 @@
                 <img src="\image\assets\Group 4.svg" alt="group 3 image 1" class="w-full h-auto object-cover">
             </div>
             {{-- Image 2 --}}
-            <div>
+            <div class="card shadow-lg">
                 <img src="\image\assets\Group 5.svg" alt="group 3 image 2" class="w-full h-auto object-cover">
             </div>
             {{-- Image 3 --}}
-            <div>
+            <div class="card shadow-lg">
                 <img src="\image\assets\Group 6.svg" alt="group 3 image 3" class="w-full h-auto object-cover">
             </div>
         </div>
