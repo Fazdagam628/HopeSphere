@@ -52,7 +52,7 @@
 
     </header>
 
-    <div class="relative bg-no-repeat bg-cover bg-center h-screen"
+    <div class="relative bg-no-repeat  bg-center h-screen"
         style="background-image: url('/image/assets/Background.png');">
         <!-- Overlay -->
         <div

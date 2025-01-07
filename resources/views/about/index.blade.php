@@ -42,7 +42,7 @@
                 </svg>
             </button>
             <ul class="dropdown-content menu p-2 shadow bg-gray-200 rounded-box w-52">
-                <li><a href="{{ route('home.index') }}" class="text-black hover:text-red-500">HOME</a></li>
+                <li><a href="{{ route('/.index') }}" class="text-black hover:text-red-500">HOME</a></li>
                 <li><a href="{{ route('about.index') }}" class="text-black hover:text-red-500">ABOUT</a></li>
                 <li><a href="{{ route('contact.index') }}" class="text-black hover:text-red-500">CONTACT</a></li>
             </ul>
