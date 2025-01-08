@@ -9,18 +9,19 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="bg-cover bg-center bg-no-repeat m-0" style="background-image: url('/image/assets/BG 3.png');">
+<body class="bg-cover bg-center bg-no-repeat m-0" style="background-image: url('/image/assets/BG 3.avif');" loading="lazy">
     <!-- Navbar Section -->
     <header class="flex items-center justify-between px-6 py-3 shadow-md bg-white drop-shadow-xl relative z-30">
         <!-- Logo Section -->
         <div class="flex items-center space-x-4">
-            <img src="/image/logos/SMKN_11 1.png" alt="Logo SMK" class="h-16 md:h-20" />
-            <img src="/image/logos/LogolightblueBlue 4000x4000.png" alt="Logo" class="h-16 md:h-20" />
+            <img src="/image/logos/SMKN_11 1.webp" alt="Logo SMK" class="h-16 md:h-20" loading="lazy" />
+            <img src="/image/logos/LogolightblueBlue 4000x4000.webp" alt="Logo" class="h-16 md:h-20"
+                loading="lazy" />
         </div>
 
         <!-- Navigation Menu -->
         <nav class="hidden md:flex items-center space-x-8 bg-gray-100 rounded-lg shadow-xl pr-4 md:pr-6 pl-4 md:pl-6">
-            <a href="{{ route('/.index') }}"
+            <a href="{{ route('home.index') }}"
                 class="text-black text-lg md:text-xl font-medium hover:text-red-500 hover:font-semibold active:text-red-500 active:font-semibold transition-all">
                 HOME
             </a>
@@ -54,7 +55,7 @@
         {{-- Alamat --}}
         <div class="card bg-gray-200 shadow-xl rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
             <div class="text-4xl mb-4">
-                <img src="/image/assets/Peta.svg" alt="Map">
+                <img src="/image/assets/Peta.avif" alt="Map" loading="lazy">
                 <i class="fas fa-map-marker-alt"></i>
             </div>
             <h3 class="font-semibold text-xl mb-2">Alamat</h3>
@@ -65,7 +66,7 @@
         {{-- Telepon  --}}
         <div class="card bg-gray-200 shadow-xl rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
             <div class="text-4xl mb-4">
-                <img src="/image/assets/HP.svg" alt="Smartphone">
+                <img src="/image/assets/HP.avif" alt="Smartphone" loading="lazy">
                 <i class="fas fa-phone"></i>
             </div>
             <h3 class="font-semibold text-xl mb-2">Telepon</h3>
@@ -77,7 +78,7 @@
         {{-- Email  --}}
         <div class="card bg-gray-200 shadow-xl rounded-lg flex flex-col items-center p-6 w-full md:w-1/3">
             <div class="text-4xl mb-4">
-                <img src="/image/assets/Email.svg" alt="Email">
+                <img src="/image/assets/Email.avif" alt="Email" loading="lazy">
                 <i class="fas fa-envelope"></i>
             </div>
             <h3 class="font-semibold text-xl mb-2">Email</h3>

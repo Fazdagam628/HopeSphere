@@ -7,16 +7,18 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Home</title>
     @vite('resources/css/app.css')
+    {{-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"> --}}
 </head>
 
-<body class="bg-cover bg-center bg-no-repeat m-0" style="background-image: url('/image/assets/BG 3.png');">
+<body class="bg-cover bg-center bg-no-repeat m-0" style="background-image: url('/image/assets/BG 3.avif');" loading="lazy">
     <!-- Navbar Section -->
     <header class="flex items-center justify-between px-6 py-3 shadow-md bg-white drop-shadow-xl relative z-30">
 
         <!-- Logo Section -->
         <div class="flex items-center space-x-4">
-            <img src="/image/logos/SMKN_11 1.png" alt="Logo SMK" class="h-16 md:h-20" />
-            <img src="/image/logos/LogolightblueBlue 4000x4000.png" alt="Logo" class="h-16 md:h-20" />
+            <img src="/image/logos/SMKN_11 1.webp" alt="Logo SMK" class="h-16 md:h-20" loading="lazy" />
+            <img src="/image/logos/LogolightblueBlue 4000x4000.webp" alt="Logo" class="h-16 md:h-20"
+                loading="lazy" />
         </div>
 
         <!-- Navigation Menu for Desktop -->
@@ -52,8 +54,8 @@
 
     </header>
 
-    <div class="relative bg-no-repeat  bg-center h-screen"
-        style="background-image: url('/image/assets/Background.png');">
+    <div class="relative bg-no-repeat bg-cover bg-center h-screen" loading="lazy"
+        style="background-image: url('/image/assets/Background.avif') ;">
         <!-- Overlay -->
         <div
             class="absolute top-0 left-0 right-0 h-[30%] bg-gradient-to-b from-red-500/70 to-red-700/70 backdrop-blur-md drop-shadow-xl">
@@ -71,18 +73,19 @@
     {{-- Container Layanan Utama --}}
     <div class="flex justify-center mb-20">
         {{-- Group 3 Container --}}
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-            {{-- Image 1 --}}
-            <div class="card shadow-lg">
-                <img src="\image\assets\Group 4.svg" alt="group 3 image 1" class="w-full h-auto object-cover">
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+            <div class="card shadow-lg transform hover:scale-105 transition-all duration-200">
+                <img src="/image/assets/Group 4.avif" alt="group 3 image 1" loading="lazy">
             </div>
             {{-- Image 2 --}}
-            <div class="card shadow-lg">
-                <img src="\image\assets\Group 5.svg" alt="group 3 image 2" class="w-full h-auto object-cover">
+            <div class="card shadow-lg transform hover:scale-105 transition-all duration-200">
+                <img src="\image\assets\Group 5.avif" alt="group 3 image 2" class="w-full h-auto object-cover"
+                    loading="lazy">
             </div>
             {{-- Image 3 --}}
-            <div class="card shadow-lg">
-                <img src="\image\assets\Group 6.svg" alt="group 3 image 3" class="w-full h-auto object-cover">
+            <div class="card shadow-lg transform hover:scale-105 transition-all duration-200">
+                <img src="\image\assets\Group 6.avif" alt="group 3 image 3" class="w-full h-auto object-cover"
+                    loading="lazy">
             </div>
         </div>
     </div>
