@@ -299,12 +299,12 @@
     <section>
         <h2 class="text-red-600 text-4xl md:text-5xl text-center font-bold m-10">Kegiatan</h2>
         <div class="relative overflow-hidden flex justify-center  my-20 ">
-            <div class="swiper-container w-full max-w-screen-lg lg:max-w-screen-xl">
+            <div class="swiper-container w-full h-72 max-w-screen-lg lg:max-w-screen-xl">
                 <!-- Wrapper untuk Slide -->
                 <div class="swiper-wrapper">
                     <!-- Slide 1 -->
                     <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/image/assets/Rectangle 22.avif" alt="Image" class="w-full h-full object-cover"
+                        <img src="/image/assets/Background.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
                             class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
@@ -327,7 +327,7 @@
                     </div>
                     <!-- Slide 2 -->
                     <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/image/assets/Rectangle 22.avif" alt="Image" class="w-full h-full object-cover"
+                        <img src="/image/assets/wadukjatibarang.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
                             class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
@@ -350,7 +350,7 @@
                     </div>
                     <!-- Slide 3 -->
                     <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/image/assets/Rectangle 22.avif" alt="Image" class="w-full h-full object-cover"
+                        <img src="/image/assets/Edukasistunting.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
                             class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
@@ -374,7 +374,7 @@
                     </div>
                     <!-- Slide 4 -->
                     <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/image/assets/Rectangle 22.avif" alt="Image" class="w-full h-full object-cover"
+                        <img src="/image/assets/LDK Avif.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
                             class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
@@ -399,8 +399,8 @@
                     </div>
                     <!-- Slide 5 -->
                     <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/image/assets/Rectangle 22.avif" alt="Image" class="w-full h-full object-cover"
-                            loading="lazy">
+                        <img src="/image/assets/pelatihanangkatanbaru.avif" alt="Image"
+                            class="w-full h-full object-cover" loading="lazy">
                         <div
                             class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
                             <p class="text-white font-semibold text-sm">Seminggu Sekali</p>
@@ -423,7 +423,7 @@
                     </div>
                     <!-- Slide 6 -->
                     <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/image/assets/Rectangle 22.avif" alt="Image" class="w-full h-full object-cover"
+                        <img src="/image/assets/eventpmi.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
                             class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
