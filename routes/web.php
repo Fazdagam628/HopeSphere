@@ -7,7 +7,7 @@ use App\Http\Controllers\HomeController;
 //     return view('/home', App\Http\Controllers\HomeController::class);
 // });
 
-Route::get('/', [HomeController::class, 'index']);
+Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::resource('/about', App\Http\Controllers\AboutController::class);
 Route::resource('/contact', App\Http\Controllers\ContactController::class);
-Route::resource('/home', App\Http\Controllers\HomeController::class);
+// Route::resource('/home', App\Http\Controllers\HomeController::class);

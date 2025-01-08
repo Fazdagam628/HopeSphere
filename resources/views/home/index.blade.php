@@ -23,7 +23,7 @@
 
         <!-- Navigation Menu for Desktop -->
         <nav class="hidden md:flex items-center space-x-8 bg-gray-100 rounded-lg shadow-xl pr-4 md:pr-6">
-            <a href="{{ route('home.index') }}"
+            <a href="{{ route('home') }}"
                 class="btn bg-red-500 text-white text-base md:text-xl rounded-25 px-4 py-2 border-none scale-y-120 hover:bg-red-600 active:bg-red-600 transition-all">
                 HOME
             </a>
@@ -46,7 +46,7 @@
                 </svg>
             </button>
             <ul class="dropdown-content menu p-2 shadow bg-gray-200 rounded-box w-52">
-                <li><a href="{{ route('home.index') }}" class="text-black hover:text-red-500">HOME</a></li>
+                <li><a href="{{ route('home') }}" class="text-black hover:text-red-500">HOME</a></li>
                 <li><a href="{{ route('about.index') }}" class="text-black hover:text-red-500">ABOUT</a></li>
                 <li><a href="{{ route('contact.index') }}" class="text-black hover:text-red-500">CONTACT</a></li>
             </ul>

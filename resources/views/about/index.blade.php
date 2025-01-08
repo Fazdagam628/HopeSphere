@@ -55,7 +55,7 @@
 
         <!-- Navigation Menu -->
         <nav class="hidden md:flex items-center space-x-8 bg-gray-100 rounded-lg shadow-xl pr-4 md:pr-6 pl-4 md:pl-6">
-            <a href="{{ route('home.index') }}"
+            <a href="{{ route('home') }}"
                 class="text-black text-lg md:text-xl font-medium hover:text-red-500 hover:font-semibold active:text-red-500 active:font-semibold transition-all">
                 HOME
             </a>
@@ -77,7 +77,7 @@
                 </svg>
             </button>
             <ul class="dropdown-content menu p-2 shadow bg-gray-200 rounded-box w-52">
-                <li><a href="{{ route('home.index') }}" class="text-black hover:text-red-500">HOME</a></li>
+                <li><a href="{{ route('home') }}" class="text-black hover:text-red-500">HOME</a></li>
                 <li><a href="{{ route('about.index') }}" class="text-black hover:text-red-500">ABOUT</a></li>
                 <li><a href="{{ route('contact.index') }}" class="text-black hover:text-red-500">CONTACT</a></li>
             </ul>
@@ -299,7 +299,7 @@
     <section>
         <h2 class="text-red-600 text-4xl md:text-5xl text-center font-bold m-10">Kegiatan</h2>
         <div class="relative overflow-hidden flex justify-center  my-20 ">
-            <div class="swiper-container w-full h-72 max-w-screen-lg lg:max-w-screen-xl">
+            <div class="swiper-container w-full h-[400px] max-w-screen-lg md:max-w-screen-xl">
                 <!-- Wrapper untuk Slide -->
                 <div class="swiper-wrapper">
                     <!-- Slide 1 -->
