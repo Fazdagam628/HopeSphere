@@ -297,9 +297,9 @@
 
     </section> --}}
     <section>
-        <h2 class="text-red-600 text-3xl md:text-5xl text-center font-bold m-10">Kegiatan</h2>
+        <h2 class="text-red-600 text-4xl md:text-5xl text-center font-bold m-10">Kegiatan</h2>
         <div class="relative overflow-hidden flex justify-center  my-20 ">
-            <div class="swiper-container w-full max-w-screen-xl">
+            <div class="swiper-container w-full max-w-screen-lg lg:max-w-screen-xl">
                 <!-- Wrapper untuk Slide -->
                 <div class="swiper-wrapper">
                     <!-- Slide 1 -->
@@ -472,7 +472,7 @@
         const swiper = new Swiper('.swiper-container', {
             loop: true,
             spaceBetween: 24,
-            slidesPerView: 2,
+            slidesPerView: 1,
             centeredSlides: true,
             pagination: {
                 el: '.swiper-pagination',
@@ -484,7 +484,7 @@
             },
             breakpoints: {
                 768: {
-                    slidesPerView: 2,
+                    slidesPerView: 1,
                     spaceBetween: 24,
                 },
                 1024: {
