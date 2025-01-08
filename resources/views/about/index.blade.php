@@ -327,7 +327,7 @@
                     </div>
                     <!-- Slide 2 -->
                     <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
-                        <img src="/image/assets/wadukjatibarang.avif" alt="Image" class="w-full h-full object-cover"
+                        <img src="/image/assets/waduk jatibarang.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
                             class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
