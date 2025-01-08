@@ -14,8 +14,8 @@
     <header class="flex items-center justify-between px-6 py-3 shadow-md bg-white drop-shadow-xl relative z-30">
         <!-- Logo Section -->
         <div class="flex items-center space-x-4">
-            <img src="/image/logos/SMKN_11 1.webp" alt="Logo SMK" class="h-16 md:h-20" loading="lazy" />
-            <img src="/image/logos/LogolightblueBlue 4000x4000.webp" alt="Logo" class="h-16 md:h-20"
+            <img src="/image/logos/SMKN_11 1.avif" alt="Logo SMK" class="h-16 md:h-20" loading="lazy" />
+            <img src="/image/logos/LogolightblueBlue 4000x4000.avif" alt="Logo" class="h-16 md:h-20"
                 loading="lazy" />
         </div>
 

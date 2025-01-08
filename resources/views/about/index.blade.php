@@ -36,8 +36,8 @@
 
         /* Membatasi container utama agar fokus pada area dalam */
         .relative.overflow-hidden {
-            border-radius: 16px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            /* border-radius: 16px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
         }
     </style>
 </head>
@@ -48,8 +48,8 @@
     <header class="flex items-center justify-between px-6 py-3 shadow-md bg-white drop-shadow-xl relative z-30">
         <!-- Logo Section -->
         <div class="flex items-center space-x-4">
-            <img src="/image/logos/SMKN_11 1.webp" alt="Logo SMK" class="h-16 md:h-20" loading="lazy" />
-            <img src="/image/logos/LogolightblueBlue 4000x4000.webp" alt="Logo" class="h-16 md:h-20"
+            <img src="/image/logos/SMKN_11 1.avif" alt="Logo SMK" class="h-16 md:h-20" loading="lazy" />
+            <img src="/image/logos/LogolightblueBlue 4000x4000.avif" alt="Logo" class="h-16 md:h-20"
                 loading="lazy" />
         </div>
 
@@ -314,7 +314,7 @@
                                 34</p>
                         </div>
                         <div
-                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 rounded-lg group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg">
                             <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
                                 Penyerahan jabatan PMR Wira Karuna SMKN 11 dari angkatan 33 kepada angkatan 34 menandai
                                 momen penting dalam perjalanan organisasi. Acara ini menjadi simbol purna tugas bagi
@@ -335,7 +335,7 @@
                             <p class="text-white font-medium text-sm">Pelatihan PMI di Waduk Jatibarang</p>
                         </div>
                         <div
-                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 rounded-lg group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg">
                             <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
                                 Pelatihan di Waduk Jatibarang menjadi ajang edukasi yang mencakup materi tentang bencana
                                 alam dan penanganan patah tulang. Kegiatan ini diikuti oleh perwakilan dari berbagai
@@ -358,7 +358,7 @@
                             <p class="text-white font-medium text-sm">Edukasi Stunting Bersama Poltekes Semarang</p>
                         </div>
                         <div
-                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 rounded-lg group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg">
                             <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
                                 Poltekkes Semarang mengadakan kunjungan ke SMKN 11 Semarang untuk memberikan edukasi
                                 tentang
@@ -382,8 +382,8 @@
                             <p class="text-white font-medium text-sm">LDK Angkatan 34</p>
                         </div>
                         <div
-                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
-                            <p class="font-thin text-md md:text-lg text-justify text-white p-5">
+                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 rounded-lg group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg">
+                            <p class="font-semithin text-md md:text-lg text-justify text-white p-5">
                                 LDK (Latihan Dasar Kepemimpinan) adalah program pelatihan yang dirancang untuk
                                 mengembangkan
                                 kemampuan kepemimpinan, komunikasi, dan kerjasama tim bagi individu.
@@ -407,7 +407,7 @@
                             <p class="text-white font-medium text-sm">Pelatihan Angkatan Baru</p>
                         </div>
                         <div
-                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 rounded-lg group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg">
                             <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
                                 Pemberian materi kepada anggota baru dilakukan untuk mempersiapkan mereka dalam
                                 menjalankan
@@ -431,7 +431,7 @@
                             <p class="text-white font-medium text-sm">Aktif Mengikuti acara dari PMI</p>
                         </div>
                         <div
-                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 group-hover:translate-y-0 transition-transform duration-500 ease-in-out">
+                            class="absolute inset-0 bg-black backdrop-blur-lg text-black text-sm p-auto transform translate-y-full bg-opacity-40 rounded-lg group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg">
                             <p class="font-semithin text-md md:text-xl text-justify text-white p-5">
                                 Anggota PMR Wira Karuna SMKN 11 Semarang secara aktif berpartisipasi dalam rapat dan
                                 acara
