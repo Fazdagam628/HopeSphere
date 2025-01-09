@@ -62,8 +62,8 @@
             <div
                 class="absolute inset-0 flex flex-col items-center justify-center text-white px-4 text-center drop-shadow-xl">
                 <div class="bg-white/10 rounded-lg backdrop-blur-xl p-6 shadow-xl max-w-xl">
-                    <h1 class="text-4xl font-bold mb-4">SELAMAT DATANG DI PMR</h1>
-                    <h2 class="text-2xl font-medium">SMKN 11 SEMARANG</h2>
+                    <h1 class="text-4xl font-bold mb-4">SELAMAT DATANG DI HOPESPHERE</h1>
+                    <h2 class="text-2xl font-medium">PMR WIRA KARUNA SMKN 11 SEMARANG</h2>
                 </div>
             </div>
         </div>

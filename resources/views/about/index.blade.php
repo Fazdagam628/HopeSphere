@@ -36,8 +36,8 @@
 
         /* Membatasi container utama agar fokus pada area dalam */
         .relative.overflow-hidden {
-            /* border-radius: 16px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+            /* border-radius: 16px;*/
+            /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
         }
     </style>
 </head>
@@ -86,35 +86,21 @@
     <section>
         <h3 class="text-black text-xl  md:text-2xl text-center font-semibold mt-10">Tentang Kami</h3>
         <h2 class="text-red-600 text-3xl md:text-5xl text-center font-bold mt-10">Latar Belakang</h2>
-        <div class="my-20 mx-10 px-5 py-5 bg-gray-200 rounded-lg shadow-xl">
-            <p class="text-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia
-                volutpat ante at finibus.
+        <div class="my-20 mx-10 px-5 py-5 bg-white ro unded-lg ">
+            <p class="text-gray-700 text-justify">PMR Wira Karuna SMKN 11 Semarang adalah sebuah organisasi yang
+                berdedikasi dalam
+                memberikan kontribusi nyata di bidang layanan kesehatan bagi lingkungan sekolah. Sebagai bagian dari
+                Palang Merah Remaja, organisasi ini telah lama menjadi garda terdepan dalam mengayomi dan melayani
+                kebutuhan kesehatan warga sekolah, mulai dari siswa, guru, hingga staf. Dengan semangat kepedulian dan
+                kerja sama, PMR Wira Karuna tidak hanya berfokus pada penanganan kesehatan darurat, tetapi juga
+                mengedepankan edukasi kesehatan, pencegahan penyakit, dan kegiatan sosial yang mendukung terciptanya
+                lingkungan yang sehat dan harmonis.
                 <br>
-                Integer eu urna nibh.
                 <br>
-                Fusce a eros facilisis, eleifend sem et, feugiat nisl. Aliquam rutrum pulvinar
-                tellus vel consectetur.
-                <br>
-                Sed a semper nisl.
-                <br>
-                Nunc in ex iaculis nisi convallis ultricies.
-                <br>
-                Donec interdum,
-                orci non facilisis rhoncus, lectus velit sagittis nulla, imperdiet tempor ipsum neque vitae quam.
-                Praesent lobortis in tortor et accumsan.
-                <br>
-                Donec neque ex, pellentesque sit amet odio at, tincidunt suscipit urna.
-                <br>
-                Ut id varius mauris, at blandit
-                felis.
-                <br>
-                Integer egestas sem id massa blandit commodo.
-                <br>
-                Sed sit amet rhoncus nibh. Curabitur eu dui nunc.
-                Duis metus ante, tincidunt eget risus ac, dapibus blandit erat.
-                <br>
-                Curabitur rutrum vitae velit in
-                ultrices. Nulla auctor risus eget augue euismod facilisis.
+                Didukung oleh anggota yang terlatih dan penuh dedikasi, PMR Wira Karuna selalu siap memberikan
+                pertolongan pertama, mengadakan kampanye kesehatan, serta menjadi mitra dalam setiap kegiatan sekolah
+                yang membutuhkan layanan medis. Organisasi ini berkomitmen untuk terus berkembang dan berinovasi,
+                menghadirkan layanan kesehatan yang lebih baik demi kesejahteraan seluruh warga SMKN 11 Semarang.
             </p>
         </div>
     </section>
@@ -129,7 +115,7 @@
 
                     <!-- Description Overlay -->
                     <div
-                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">22 Agustus 2024</p>
                         <!-- Teks di bawah -->
@@ -157,7 +143,7 @@
 
                     <!-- Description Overlay -->
                     <div
-                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">8 Juni 2024</p>
                         <!-- Teks di bawah -->
@@ -184,7 +170,7 @@
 
                     <!-- Description Overlay -->
                     <div
-                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">21 Agustus 2024</p>
                         <!-- Teks di bawah -->
@@ -213,7 +199,7 @@
 
                     <!-- Description Overlay -->
                     <div
-                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">8 Desember 2024</p>
                         <!-- Teks di bawah -->
@@ -242,7 +228,7 @@
 
                     <!-- Description Overlay -->
                     <div
-                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">Seminggu Sekali</p>
                         <!-- Teks di bawah -->
@@ -270,7 +256,7 @@
 
                     <!-- Description Overlay -->
                     <div
-                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                        class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                         <!-- Teks di atas -->
                         <p class="text-white font-semibold text-sm">5 September 2024</p>
                         <!-- Teks di bawah -->
@@ -299,15 +285,15 @@
     <section>
         <h2 class="text-red-600 text-4xl md:text-5xl text-center font-bold m-10">Kegiatan</h2>
         <div class="relative overflow-hidden flex justify-center  my-20 ">
-            <div class="swiper-container w-full h-[400px] max-w-screen-lg md:max-w-screen-xl">
+            <div class="swiper-container w-[350px] md:w-full h-[300px] md:h-[400px] max-w-screen-lg md:max-w-screen-xl">
                 <!-- Wrapper untuk Slide -->
                 <div class="swiper-wrapper">
                     <!-- Slide 1 -->
-                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
+                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-xl">
                         <img src="/image/assets/Background.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
-                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                             <p class="text-white font-semibold text-sm">22 Agustus 2024</p>
                             <p class="text-white font-medium text-sm">Serah Terima Jabatan PMR Wira Karuna SMKN 11
                                 Angkatan
@@ -326,11 +312,11 @@
                         </div>
                     </div>
                     <!-- Slide 2 -->
-                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
+                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-xl">
                         <img src="/image/assets/waduk jatibarang.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
-                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                             <p class="text-white font-semibold text-sm">8 Juni 2024</p>
                             <p class="text-white font-medium text-sm">Pelatihan PMI di Waduk Jatibarang</p>
                         </div>
@@ -349,11 +335,11 @@
                         </div>
                     </div>
                     <!-- Slide 3 -->
-                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
+                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-xl">
                         <img src="/image/assets/Edukasistunting.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
-                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                             <p class="text-white font-semibold text-sm">21 Agustus 2024</p>
                             <p class="text-white font-medium text-sm">Edukasi Stunting Bersama Poltekes Semarang</p>
                         </div>
@@ -373,12 +359,12 @@
                         </div>
                     </div>
                     <!-- Slide 4 -->
-                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
+                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-xl">
                         <img src="/image/assets/LDK Avif.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
-                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
-                            <p class="text-white font-semibold text-sm">8 Desember 2024</p>
+                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
+                            <p class="text-white font-semibold text-sm">8 Desember 2023</p>
                             <p class="text-white font-medium text-sm">LDK Angkatan 34</p>
                         </div>
                         <div
@@ -398,11 +384,11 @@
                         </div>
                     </div>
                     <!-- Slide 5 -->
-                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
+                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-xl">
                         <img src="/image/assets/pelatihanangkatanbaru.avif" alt="Image"
                             class="w-full h-full object-cover" loading="lazy">
                         <div
-                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                             <p class="text-white font-semibold text-sm">Seminggu Sekali</p>
                             <p class="text-white font-medium text-sm">Pelatihan Angkatan Baru</p>
                         </div>
@@ -422,11 +408,11 @@
                         </div>
                     </div>
                     <!-- Slide 6 -->
-                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-lg">
+                    <div class="swiper-slide relative group bg-gray-200 rounded-lg overflow-hidden shadow-xl">
                         <img src="/image/assets/eventpmi.avif" alt="Image" class="w-full h-full object-cover"
                             loading="lazy">
                         <div
-                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 flex flex-col justify-between p-4">
+                            class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent opacity-80 h-1/3 md:h-1/4 flex flex-col justify-between p-4">
                             <p class="text-white font-semibold text-sm">5 September 2024</p>
                             <p class="text-white font-medium text-sm">Aktif Mengikuti acara dari PMI</p>
                         </div>
