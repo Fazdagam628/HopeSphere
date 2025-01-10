@@ -85,8 +85,8 @@
     </header>
     <section>
         <h3 class="text-black text-xl  md:text-2xl text-center font-semibold mt-10">Tentang Kami</h3>
-        <h2 class="text-red-600 text-3xl md:text-5xl text-center font-bold mt-10">Latar Belakang</h2>
-        <div class="my-20 mx-10 px-5 py-5 bg-white ro unded-lg ">
+        <h2 class="text-red-600 text-4xl md:text-5xl text-center font-bold mt-10">Latar Belakang</h2>
+        <div class="my-10 mx-[30px] md:mx-[100px] px-5 py-5 bg-white rounded-lg ">
             <p class="text-gray-700 text-justify">PMR Wira Karuna SMKN 11 Semarang adalah sebuah organisasi yang
                 berdedikasi dalam
                 memberikan kontribusi nyata di bidang layanan kesehatan bagi lingkungan sekolah. Sebagai bagian dari

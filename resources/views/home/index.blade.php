@@ -69,7 +69,52 @@
         </div>
     </div>
     <div class="m-0 bg-white py-10 drop-shadow-xl"></div>
-    <h2 class="text-5xl font-bold m-20 text-center text-red-700 ">Layanan Kita</h2>
+
+    <div class="py-20 px-6 lg:px-20">
+        <div class="max-w-6xl mx-auto">
+            <!-- Heading Section -->
+            <div class="text-center">
+                <h2 class="text-4xl md:text-5xl font-bold text-red-600">
+                    Visi & Misi
+                </h2>
+                {{-- <p class="text-lg lg:text-xl text-gray-600 mt-4">
+                    Merajut kepedulian, keikhlasan, dan kontribusi untuk masa depan yang lebih cerah.
+                </p> --}}
+            </div>
+
+            <!-- Divider -->
+            <div class="w-20 h-1 bg-red-600 mx-auto my-8"></div>
+
+            <!-- Content Section -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mt-10 items-center">
+                <!-- Visi -->
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-2xl font-semibold text-gray-800 mb-4">Visi</h3>
+                    <br>
+                    <ul class="list-disc pl-6 text-gray-600">
+                        <li>Mewujudkan siswa sehat, peduli lingkungan, berakhlak mulia, empati, dan amanah.</li>
+                        <li>Mengembangkan PMR WIRA KARUNA berlandaskan kepedulian, keikhlasan, dan kontribusi.</li>
+                    </ul>
+                </div>
+
+                <!-- Misi -->
+                <div class="border-l-4 border-red-600 pl-6">
+                    <h3 class="text-2xl font-semibold text-gray-800 mb-4">Misi</h3>
+                    <ul class="list-disc pl-6 text-gray-600 space-y-3">
+                        <li>Meningkatkan efesiensi & efektivitas anggota PMR dalam bekerja sama & menyelesaikan masalah.
+                        </li>
+                        <li>Mendorong karya nyata, prestasi, dan pengabdian.</li>
+                        <li>Meningkatkan disiplin dan keaktifan anggota PMR.</li>
+                        <li>Berkolaborasi dengan organisasi lain untuk bertukar wawasan.</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <h2 class="text-4xl md:text-5xl font-bold mx-20 mb-20 text-center text-red-600 ">Layanan Kita</h2>
     {{-- Container Layanan Utama --}}
     <div class="flex justify-center mb-20">
         {{-- Group 3 Container --}}
